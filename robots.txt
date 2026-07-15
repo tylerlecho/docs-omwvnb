@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-dt0sjc.druzy.tech/sitemap.xml
